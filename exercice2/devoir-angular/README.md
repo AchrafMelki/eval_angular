@@ -42,7 +42,7 @@ Pour le maintenir plus facilement et si un probleme survient sur un petit compos
 ### A quoi sert un service ?
 
 ```
-Un service sert a créer un code réutilisable sans avoir à l'écrire plusieurs fois
+Un service sert a créer un code réutilisable dans plusieurs composants
 ```
 
 ### Qu'est-ce-qu'un observable, et quel est son intérêt ?
